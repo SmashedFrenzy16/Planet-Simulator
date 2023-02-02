@@ -3,6 +3,8 @@ This is a mind-blowing planet simulator made in Python using the `pygame` module
 
 ## Requirements
 
+- Pygame (`pip install pygame`)
+- Ctypes(`pip install ctypes`)
 
 ## Extra Information
 
