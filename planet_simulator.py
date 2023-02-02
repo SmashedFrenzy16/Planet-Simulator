@@ -4,7 +4,7 @@ from pygame.math import Vector2
 from random import randrange
 import ctypes
 
-# ctypes.windll.shcore.SetProcessDpiAwareness(1)
+ctypes.windll.shcore.SetProcessDpiAwareness(1)
 
 pygame.init()
 
