@@ -4,4 +4,4 @@ This is a mind-blowing planet simulator made in Python using the `pygame` module
 
 ## Extra Information
 
-The line `ctypes.windll.shcore.SetProcessDpiAwareness(1)` can only be used on Windows. When using this program, please comment out/remove this line.
+The line `ctypes.windll.shcore.SetProcessDpiAwareness(1)` (line 7) can only be used on Windows. When using this program, please comment out/remove this line.
